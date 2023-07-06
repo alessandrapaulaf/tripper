@@ -1,4 +1,4 @@
-# tripper
+# Tripper
 
 A new Flutter project.
 
